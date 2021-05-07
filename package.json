@@ -10,6 +10,7 @@
   "license": "ISC",
   "private": true,
   "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
     "css-loader": "^5.2.4",
     "html-webpack-plugin": "^4.5.2",
     "mini-css-extract-plugin": "^1.6.0",
