@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/css/main.scss","webpack:///./src/js/VueApp.vue"],"names":[],"mappings":"AAAA,KACI,mBAAoB;;ACgBxB,mBACE,WAAY","file":"./css/main.css","sourcesContent":["body{\n    color: rebeccapurple;\n}\n\n$text-color: orange;","\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\np {\n  color: green;\n}\n"],"sourceRoot":""}
